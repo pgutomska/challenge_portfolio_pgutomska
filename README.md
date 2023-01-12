@@ -27,6 +27,8 @@ Weszłam w rozgrywanie meczu, wyszłam bez zapisywania i... Nie mogę wrócić d
 
 Wydaje mi się, że błędem jest możliwość dodania ujemnego wieku i wzrostu oraz daty urodzenia z przyszłości.
 
-Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków)
+Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków).
+
+Dodawanie wieku gracza: jak wpisze się za dużą liczbę w dniu miesiąca to zmienia ją automatycznie na 31, a potem wymaga zmienienia tego na poprawną datę.
 
 Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
