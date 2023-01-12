@@ -22,7 +22,7 @@ Wpisywanie raportu nie jest intuicyjne, jak klikam ikonkę pogrubienia, itp. trz
 
 Długo zajęło mi ogarnięcie, jak dodać statystyki do raportu.
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń!
-Weszłam w rozgrywanie meczu, wyszłam bez zapisywania i... Nie mogę wrócić do raportu 😿 I w tekście jest literówka "Ostatnio z~~a~~aktualizowany gracz"
+Weszłam w rozgrywanie meczu, wyszłam bez zapisywania i... Nie mogę wrócić do raportu 😿
 ![Błąd1](https://i.imgur.com/UcfqUuu.png)
 
 Wydaje mi się, że błędem jest możliwość dodania ujemnego wieku i wzrostu oraz daty urodzenia z przyszłości.
