@@ -10,14 +10,16 @@ Aplikacja służy do wprowadzania danych o piłkarzach, meczach i raportów z ni
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmieniła?
 Według mnie walidacja powinna być przy dacie urodzenia i wieku, ponieważ można wpisać datę urodzenia z przyszłości, a wiek ujemny. Również wiek powinien sam się wyliczać, ponieważ nikt nie będzie zmieniał wieku co czyjeś urodziny.
 Poprawiłabym okna do wpisania imienia i nazwiska, żeby dało się wpisywać tylko litery.
-Czy mogę edytować dane statystyczne? Skąd one się biorą?
 Raporty da się tylko edytować, jak je wydrukować?
+Wydaje mi się, że błędem jest możliwość dodania ujemnego wieku i wzrostu oraz daty urodzenia z przyszłości.
+Link do "dev team contact" przekierowuje do stworzenia Slacka.
+Link do youtuba może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków)
+
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-Aplikacja jest prosta z wyglądu, ale nie porywa. Działa szybko.
+Aplikacja jest prosta z wyglądu, ale nie porywa. Działa też nie najszybciej.
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 -Wpisywanie raportu nie jest intuicyjne, jak klikam ikonkę pogrubienia, itp. trzeba znów kliknąć w tekst, żeby kontynuować pisanie. 
 -Długo zajęło mi ogarnięcie, jak dodać statystyki do raportu.
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń!
-Wydaje mi się, że błędem jest możliwość dodania ujemnego wieku i wzrostu oraz daty urodzenia z przyszłości.
-Link do "dev team contact" przekierowuje do stworzenia Slacka.
-Link do youtuba może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków)
+Weszłam w rozgrywanie meczu w raporcie, wyszłam bez zapisywania i... Nie mogę wrócić do raportu 😿
+![Błąd](https://i.imgur.com/UcfqUuu.png)
