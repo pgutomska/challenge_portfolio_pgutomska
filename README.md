@@ -12,6 +12,7 @@ Według mnie walidacja powinna być przy dacie urodzenia i wieku, ponieważ moż
 
 Poprawiłabym okna do wpisania imienia i nazwiska, żeby dało się wpisywać tylko litery.
 
+W rozgrywce meczu nie da się dodać akcji w danej sekundzie, przy zatrzymaniu czasu.
 Raporty da się tylko edytować, jak je wydrukować?
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 Aplikacja jest prosta z wyglądu, ale nie porywa. Działa też nie najszybciej.
