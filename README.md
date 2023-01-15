@@ -11,7 +11,7 @@ Aplikacja służy do wprowadzania danych o piłkarzach, meczach i tworzenia rapo
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmieniła?
 Aplikacja posiada takie funkcjonalności jak: dodawanie gracza, edycja jego danych, tworzenie meczów i raportów i otrymanie statystyk z nich. Można też wydrukować listę graczy z podstawowymi danymi o nich, filtrować graczy po imieniu, nazwisku, wieku, pozycji, klubie i ocenie.
 
-Dodałabym możliwość drukwania raportów, usuwania graczy
+Dodałabym możliwość drukwania raportów i usuwania graczy
 
 Zmieniłabym ikonkę zapisu meczu np. na dyskietkę, żeby było to bardziej oczywiste.
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
@@ -37,4 +37,4 @@ Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
 
 Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące.
 
-Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać wojewódtwo, żeby otrzymać raport.
+Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
