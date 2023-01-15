@@ -38,3 +38,5 @@ Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
 Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące.
 
 Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
+### Subtask 5
+Będę ćwiczyć w Jirze w zespole DIT
