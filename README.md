@@ -61,7 +61,7 @@ Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza o
 * Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące.
  
 * Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
-* 
+
 ### Subtask 5
 
 Dołączyłam do zespołu w Jirze.
