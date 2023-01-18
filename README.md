@@ -1,6 +1,15 @@
 # challenge_portfolio_pgutomska
-  # Task 1
-  ## Subtask1
+# Spis Treści
+
+
+1. [Task 1](#task1)
+  * [Subtask 1](#subtask-1)
+  * [Subtask 3](#subtask-3)
+  * [Subtask 4](#subtask-4)
+  * [Subtask 5](#subtask-5)
+  
+ # Task1
+  ## Subtask 1
   5 punktów
   ## Subtask 3
   <p align="justify">
