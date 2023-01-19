@@ -55,7 +55,7 @@ Długo zajęło mi ogarnięcie, jak dodać statystyki do raportu.
 Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków).
 * Dodawanie wieku gracza: jak wpisze się za dużą liczbę w dniu miesiąca to zmienia ją automatycznie na 31, a potem wymaga zmienienia tego na poprawną datę.
 * Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
-* Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące. 
+* *Według mnie* jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące. 
 * Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
 * Na stronie głównej są literówki, tj. za~~a~~ktualizowany lub Aktywnosć
 
