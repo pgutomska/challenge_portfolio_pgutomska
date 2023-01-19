@@ -6,9 +6,9 @@
 * [Subtask 1. Wyciągmy karteczki](#subtask-1-wyciągamy-karteczki)
 * [Subtask 3. O mnie](#subtask-3-o-mnie)
 * [Subtask 4. Testy eksploracyjne](#subtask-4-testy-eksploracyjne)
-* [Subtask 5. Jira](#subtask-5-jira)
+* [Subtask 5. Jira dla chętnych](#subtask-5-jira-dla-chętnych)
 2. [Task 2](#task-2)
-* [Subtask 1](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
+* [Subtask 1. Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
 
 # Task 1
  
@@ -59,7 +59,7 @@ Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza o
 * Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
 * Na stronie głównej są literówki, tj. za~~a~~ktualizowany lub Aktywnosć
 
-### Subtask 5. Jira
+### Subtask 5. Jira dla chętnych
 
 Dołączyłam do zespołu w Jirze.
 
