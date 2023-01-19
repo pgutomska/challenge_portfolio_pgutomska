@@ -61,7 +61,7 @@ Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza o
 
 ### Subtask 5. Jira dla chętnych
 
-Dołączyłam do zespołu w Jirze.
+Dołączyłam do zespołu w [Jirze](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2).
 
 # Task 2
 
