@@ -66,3 +66,4 @@ Dołączyłam do zespołu w [Jirze](https://wannai.atlassian.net/jira/software/p
 # Task 2
 
 ## Subtask 1. Pisanie przypadków testowych na podstawie User Story
+Plik dostępny pod [linkiem](https://docs.google.com/spreadsheets/d/17ii1ynjFUFNMwshPu5vd8iaOMnKRY0eW-yXbpatpAuk/edit#gid=0)
