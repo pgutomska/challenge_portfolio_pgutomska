@@ -2,25 +2,27 @@
 # Spis Treści
 
 
-1. [Task 1](#task1)
-  * [Subtask 1](#subtask-1)
-  * [Subtask 3](#subtask-3)
-  * [Subtask 4](#subtask-4)
-  * [Subtask 5](#subtask-5)
-  
-# Task1
+1. [Task 1](#task-1)
+* [Subtask 1. Wyciągmy karteczki](#subtask-1-wyciągamy-karteczki)
+* [Subtask 3. O mnie](#subtask-3-o-mnie)
+* [Subtask 4. Testy eksploracyjne](#subtask-4-testy-eksploracyjne)
+* [Subtask 5. Jira](#subtask-5-jira)
+2. [Task 2](#task-2)
+* [Subtask 1](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
+
+# Task 1
  
-## Subtask 1
+## Subtask 1. Wyciągamy karteczki
   
 5 punktów
   
-## Subtask 3
+## Subtask 3. O mnie
   
 <p align="justify">
 Cześć, nazywam się Patrycja. Do challengu dołączyłam, żeby dowiedzieć się czegoś o pracy jako Tester Manualny. Kurs znalazłam ostatniego dnia zapisów i stwierdziłam: raz kozie śmierć - wypełnilam formularz, zapłaciłam i tak oto jestem. Mam nadzieję, że dam radę przejść cały challenge i wynieść z tego coś dla siebie. Do tej pory nie miałam nic wspólnego z IT, więc zdaję sobie sprawę, że lekko nie będzie, a już co chwila walę głową o klawiaturę :see_no_evil:
 </p>
  
-## Subtask 4
+## Subtask 4 Testy eksploracyjne
 ### Na czym polega aplikacja? Do czego służy?
 Aplikacja służy do wprowadzania danych o piłkarzach, meczach i tworzenia raportów z nich. 
 
@@ -48,20 +50,19 @@ Długo zajęło mi ogarnięcie, jak dodać statystyki do raportu.
 
 * Weszłam w rozgrywanie meczu, wyszłam bez zapisywania i... Nie mogę wrócić do raportu 😿
 ![Błąd1](https://i.imgur.com/uHtH7GS.png)
-
 * *Według mnie* powinna być sprawdzana poprawność daty urodzenia, wagi i wzrostu, ponieważ można wpisać datę urodzenia z przyszłości, a wagę i wzrost ujemny. Wiek powinien sam się wyliczać, bo nikt nie będzie zmieniał wieku co czyjeś urodziny.
-
 * Poprawiłabym okna do wpisania imienia i nazwiska, żeby nie można było wprowadzać cyfr i nieużywanych w nazwiskach znaków specjalnych.
 Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków).
-
 * Dodawanie wieku gracza: jak wpisze się za dużą liczbę w dniu miesiąca to zmienia ją automatycznie na 31, a potem wymaga zmienienia tego na poprawną datę.
-
 * Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
-
-* Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące.
- 
+* Według mnie jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące. 
 * Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
+* Na stronie głównej są literówki, tj. za~~a~~ktualizowany lub Aktywnosć
 
-### Subtask 5
+### Subtask 5. Jira
 
 Dołączyłam do zespołu w Jirze.
+
+# Task 2
+
+## Subtask 1. Pisanie przypadków testowych na podstawie User Story
