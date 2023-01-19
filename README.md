@@ -57,7 +57,8 @@ Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza o
 * Hiperłącze do "dev team contact" przekierowuje do stworzenia Slacka.
 * *Według mnie* jest błędne tłumaczenie zdania "rozpoznij mecz" na język angielski ("start report") i jest to mylące. 
 * Nie wiem, czy to jest bład, ale na etapie dodawania gracza nie informuje, że trzeba wpisać województwo, a jest ono potrzebne, żeby otrzymać raport.
-* Na stronie głównej są literówki, tj. za~~a~~ktualizowany lub Aktywnosć
+* W stronie dodawania gracza przycisk Clear nie działa praidłowo, usuwa tylko ostatnie zmiany.
+* Na stronie głównej są literówki, tj. za~~a~~ktualizowany lub Aktywnosć.
 
 ### Subtask 5. Jira dla chętnych
 
