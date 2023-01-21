@@ -70,10 +70,10 @@ Dołączyłam do zespołu w [Jirze](https://wannai.atlassian.net/jira/software/p
 
 ## Subtask 1. Pisanie przypadków testowych na podstawie User Story
 
-Plik dostępny pod [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit?usp=share_link)
+Plik dostępny pod [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit?usp=share_link).
 
 ## Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń
 
-Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit)
+Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit).
 
 ## Subtask 3. Po co piszemy test case’y?
