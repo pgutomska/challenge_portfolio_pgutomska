@@ -10,6 +10,7 @@
 2. [Task 2](#task-2)
 * [Subtask 1. Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
 * [Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+* [Subtask 3. Po co piszemy test case’y?](#subtask-3-po-co-piszemy-test-casey)
 
 # Task 1
  
@@ -51,7 +52,7 @@ Długo zajęło mi ogarnięcie, jak dodać statystyki do raportu.
 
 * Weszłam w rozgrywanie meczu, wyszłam bez zapisywania i... Nie mogę wrócić do raportu 😿
 ![Błąd1](https://i.imgur.com/uHtH7GS.png)
-* *Według mnie* powinna być sprawdzana poprawność daty urodzenia, wagi i wzrostu, ponieważ można wpisać datę urodzenia z przyszłości, a wagę i wzrost ujemny. Wiek powinien sam się wyliczać, bo nikt nie będzie zmieniał wieku co czyjeś urodziny.
+* *Według mnie* powinna być sprawdzana poprawność daty urodzenia, wagi i wzrostu, ponieważ można wpisać datę urodzenia z przyszłości, a wagę i wzrost ujemny.
 * Poprawiłabym okna do wpisania imienia i nazwiska, żeby nie można było wprowadzać cyfr i nieużywanych w nazwiskach znaków specjalnych.
 Link do youtuba w dodawaniu gracza może w ogóle nie być linkiem (zatwierdza obojętny ciąg znaków).
 * Dodawanie wieku gracza: jak wpisze się za dużą liczbę w dniu miesiąca to zmienia ją automatycznie na 31, a potem wymaga zmienienia tego na poprawną datę.
@@ -74,3 +75,5 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQD
 ## Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń
 
 Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit)
+
+## Subtask 3. Po co piszemy test case’y?
