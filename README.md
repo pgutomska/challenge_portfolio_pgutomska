@@ -1,4 +1,5 @@
 # challenge_portfolio_pgutomska
+
 # Spis Treści
 
 
@@ -9,8 +10,9 @@
 * [Subtask 5. Jira dla chętnych](#subtask-5-jira-dla-chętnych)
 2. [Task 2](#task-2)
 * [Subtask 1. Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
-* [Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+* [Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja webowa](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-webowa)
 * [Subtask 3. Po co piszemy test case’y?](#subtask-3-po-co-piszemy-test-casey)
+* [Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-mobilna)
 
 # Task 1
  
@@ -21,10 +23,11 @@
 ## Subtask 3. O mnie
   
 <p align="justify">
-Cześć, nazywam się Patrycja. Do challengu dołączyłam, żeby dowiedzieć się czegoś o pracy jako Tester Manualny. Kurs znalazłam ostatniego dnia zapisów i stwierdziłam: raz kozie śmierć - wypełnilam formularz, zapłaciłam i tak oto jestem. Mam nadzieję, że dam radę przejść cały challenge i wynieść z tego coś dla siebie. Do tej pory nie miałam nic wspólnego z IT, więc zdaję sobie sprawę, że lekko nie będzie, a już co chwila walę głową o klawiaturę :see_no_evil:
+Cześć, nazywam się Patrycja. Do challengu dołączyłam, żeby dowiedzieć się czegoś o pracy jako Tester Manualny. Kurs znalazłam ostatniego dnia zapisów i stwierdziłam: raz kozie śmierć - wypełnilam formularz, zapłaciłam i tak oto jestem. Mam nadzieję, że dam radę przejść cały challenge i wynieść z tego coś dla siebie. Już jakiś czas szukam dla siebie ścieżki kariery. Do tej pory nie miałam nic wspólnego z IT, więc zdaję sobie sprawę, że lekko nie będzie :see_no_evil:, ale się nie poddaję.
 </p>
  
 ## Subtask 4 Testy eksploracyjne
+
 ### Na czym polega aplikacja? Do czego służy?
 Aplikacja służy do wprowadzania danych o piłkarzach, meczach i tworzenia raportów z nich. 
 
@@ -72,8 +75,15 @@ Dołączyłam do zespołu w [Jirze](https://wannai.atlassian.net/jira/software/p
 
 Plik dostępny pod [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit?usp=share_link).
 
-## Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń
-
+## Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja webowa
 Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit).
 
 ## Subtask 3. Po co piszemy test case’y?
+
+* żeby było wiadomo co jest ok, a co trzeba poprawić
+* żeby móc prawdzać oprogramowanie w trakcie testów regresji
+* do oceny, czy oczekiwania klienta są spełnione
+
+## Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna
+
+Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1GsXxAGnfRhBtvK3B-86PQYeS-NqsAmVPG1AwbxJWVWk/edit).
