@@ -80,8 +80,9 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 
 ## Subtask 3. Po co piszemy test case’y?
 
-* żeby było wiadomo co jest ok, a co trzeba poprawić
-* żeby móc prawdzać oprogramowanie w trakcie testów regresji
+*Według mnie* test case'y piszemy o to, by:
+* było wiadomo jak test został zrobiony - dla nas i innych testerów
+* móc sprawdzać oprogramowanie w trakcie testów regresji
 * do oceny, czy oczekiwania klienta są spełnione
 
 ## Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna
