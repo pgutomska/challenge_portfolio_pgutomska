@@ -89,7 +89,7 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 
 ## Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna
 
-Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1GsXxAGnfRhBtvK3B-86PQYeS-NqsAmVPG1AwbxJWVWk/edit).
+Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1hlEo65Lzn8OgfEHM1tB7eEXgob9C85AyI043NdviVSc/edit).
 
 # Task 2
 
