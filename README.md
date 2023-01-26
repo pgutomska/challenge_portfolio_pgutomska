@@ -13,6 +13,8 @@
 * [Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja webowa](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-webowa)
 * [Subtask 3. Po co piszemy test case’y?](#subtask-3-po-co-piszemy-test-casey)
 * [Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-mobilna)
+3. [Task 2](#task-2)
+* [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
 
 # Task 1
  
@@ -80,7 +82,7 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 
 ## Subtask 3. Po co piszemy test case’y?
 
-*Według mnie* test case'y piszemy o to, by:
+*Według mnie* test case'y piszemy po to, by:
 * było wiadomo jak test został zrobiony - dla nas i innych testerów
 * móc sprawdzać oprogramowanie w trakcie testów regresji
 * do oceny, czy oczekiwania klienta są spełnione
@@ -88,3 +90,8 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 ## Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna
 
 Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1GsXxAGnfRhBtvK3B-86PQYeS-NqsAmVPG1AwbxJWVWk/edit).
+
+# Task 2
+
+## Subtask 1 Formatka do zgłaszania błędów
+Moja formatka dostępna jest pod [linkiem](https://docs.google.com/document/d/1BgqcYjhT6Az-61R7eg9hDAuFmnwa4Z3-LI_eeVeUUbI/edit).
