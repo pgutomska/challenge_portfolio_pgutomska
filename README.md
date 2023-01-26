@@ -13,7 +13,7 @@
 * [Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja webowa](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-webowa)
 * [Subtask 3. Po co piszemy test case’y?](#subtask-3-po-co-piszemy-test-casey)
 * [Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-mobilna)
-3. [Task 2](#task-2)
+3. [Task 3](#task-3)
 * [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
 
 # Task 1
