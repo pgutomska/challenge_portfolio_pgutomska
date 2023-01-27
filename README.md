@@ -92,7 +92,7 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 
 Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1hlEo65Lzn8OgfEHM1tB7eEXgob9C85AyI043NdviVSc/edit).
 
-# Task 2
+# Task 3
 
 ## Subtask 1. Formatka do zgłaszania błędów
 
