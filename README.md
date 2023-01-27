@@ -15,6 +15,7 @@
 * [Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń---aplikacja-mobilna)
 3. [Task 3](#task-3)
 * [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
+* [Subtask 2. Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
 
 # Task 1
  
@@ -93,5 +94,10 @@ Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1hlEo65Lzn8O
 
 # Task 2
 
-## Subtask 1 Formatka do zgłaszania błędów
+## Subtask 1. Formatka do zgłaszania błędów
+
 Moja formatka dostępna jest pod [linkiem](https://docs.google.com/document/d/1BgqcYjhT6Az-61R7eg9hDAuFmnwa4Z3-LI_eeVeUUbI/edit).
+
+## Subtask 2. Testowanie według planów testów i raportowanie błędów
+
+Moje plany testów można znaleźć w [Tasku 2](#task-2), natomiast raporty znajdują się [tutaj](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I).
