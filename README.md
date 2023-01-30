@@ -16,6 +16,7 @@
 3. [Task 3](#task-3)
 * [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
 * [Subtask 2. Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
+* [Subtask 3. Raport](#subtask-3-raport)
 
 # Task 1
  
@@ -76,10 +77,11 @@ Dołączyłam do zespołu w [Jirze](https://wannai.atlassian.net/jira/software/p
 
 ## Subtask 1. Pisanie przypadków testowych na podstawie User Story
 
-Plik dostępny pod [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit?usp=share_link).
+Napisane przeze mnie przypadki testowe na podstawie User Story dostępne są pod tym [linkiem](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit?usp=share_link).
 
 ## Subtask 2. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja webowa
-Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit).
+
+Napisane przeze mnie przypadki testowe na podstawie własnych doświadczeń dostępne są pod tym [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit).
 
 ## Subtask 3. Po co piszemy test case’y?
 
@@ -90,7 +92,7 @@ Plik dostępny pod [linkiem](https://docs.google.com/document/d/1YRDIOQvrbB-8L77
 
 ## Subtask 4. Pisanie przypadków testowych na podstawie własnych doświadczeń - aplikacja mobilna
 
-Plik dostępny pod tym [linkiem](https://docs.google.com/document/d/1hlEo65Lzn8OgfEHM1tB7eEXgob9C85AyI043NdviVSc/edit).
+Plik z napisanymi przeze mnie przypadkami testowymi dostępny pod tym [linkiem](https://docs.google.com/document/d/1hlEo65Lzn8OgfEHM1tB7eEXgob9C85AyI043NdviVSc/edit).
 
 # Task 3
 
@@ -100,4 +102,8 @@ Moja formatka dostępna jest pod [linkiem](https://docs.google.com/document/d/1B
 
 ## Subtask 2. Testowanie według planów testów i raportowanie błędów
 
-Moje plany testów można znaleźć w [Tasku 2](#task-2), natomiast raporty znajdują się [tutaj](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I).
+Moje raporty błędów znajdują się [tutaj](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I), natomiast plany testów są opisane w [Tasku 2](#task-2) - Subtask 1 i Subtask 2
+
+## Subtask 3. Raport
+
+Mój raport z testów dostępny pod tym [adresem](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0).
