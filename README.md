@@ -137,12 +137,12 @@ height="50%" title="screenshot">
 
  * Sprzedawania i kupowania rzeczy, mieszkań i wynajmowania ich
  
- * Szukania pracy i wystawiania ofert pracy
+ * Szukania pracy
 
 Użytkownikiem końcowym są osoby prywatne i firmy, które chcą coś wystawić na sprzedaż, albo kupić. Może to być też osoba, która poszukuje pracy.
 
-Aplikacja jest czytelna, łatwo dodać nową ofertę przyciskiem na dole ekranu. Wszystko jest wyraźnie oznaczone. Można też wybrać, jakie powiadomienia chcemy dostawać. Jednak nie przypominam sobie, by aplikacja prowadziła mnie po kolei, np. jak dodać nowe ogłoszenie, albo jak coś wyszukać. Klikając w "Pomoc" użytkownik jest prekierowany do strony "Cenntrum pomocy", które to jest tylko pytaniami i odpowiedziami - nie widzę kontaktu z infolini, czy czatu. Nie ma też weryfikacji dwuskładnikowej.
+Aplikacja jest czytelna, łatwo dodać nową ofertę przyciskiem na dole ekranu. Wszystko jest wyraźnie oznaczone. Można też wybrać, jakie powiadomienia chcemy dostawać. Jednak nie przypominam sobie, by aplikacja prowadziła mnie po kolei, np. jak dodać nowe ogłoszenie, albo jak coś wyszukać. Klikając w "Pomoc" użytkownik jest przekierowany do strony "Centrum pomocy", które to jest tylko pytaniami i odpowiedziami - nie widzę kontaktu z infolinią, czy czatu. Nie ma też weryfikacji dwuskładnikowej.
 
 Dodałabym opcję kontaktu z supportem - mailowy, telefoniczny, czy poprzez czat. Dodałabym też weryfikację dwuskładnikową do logowania, żeby preciwdziałać oszustwom. Na ten moment weryfikuje się tylko numer telefonu sprzedającego.
 
-Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m. in. w natywnej nie ma takich narzędzi, jak DevToolsy. Istnieje też różnica w rozdzielczości, przez co aplikacje mobilne trudniej zrobić czytelnymi. Natywne aplikacje też trudnie zobić dostępne dla wszystkich (np. ustawienie większej czcionki w telefonie dla osób słabowidzących powoduje czasem brak możliwości używania danej aplikacji)
+Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m. in. w natywnej nie ma takich narzędzi, jak DevToolsy. Istnieje też różnica w rozdzielczości, przez co aplikacje mobilne trudniej zrobić czytelnymi. Natywne aplikacje też trudniej zobić dostępne dla wszystkich (np. ustawienie większej czcionki w telefonie dla osób słabowidzących powoduje czasem brak możliwości używania danej aplikacji)
