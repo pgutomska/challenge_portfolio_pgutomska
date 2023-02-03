@@ -17,6 +17,10 @@
 * [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
 * [Subtask 2. Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
 * [Subtask 3. Raport](#subtask-3-raport)
+4. [Task 4.](#task-4)
+* [Subtask 1. Formatka do zgłaszania błędów systemu](#subtask-1-formatka-do-zgłaszania-błędów-systemu)
+* [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
+* [Subtask 3. Do czego służy ta aplikacja?](#subtask-3-do-czego-s%C5%82u%C5%BCy-ta-aplikcja)
 
 # Task 1
  
@@ -107,3 +111,38 @@ Moje raporty błędów znajdują się [tutaj](https://docs.google.com/document/d
 ## Subtask 3. Raport
 
 Mój raport z testów dostępny pod tym [adresem](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0).
+
+# Task 4
+
+## Subtask 1. Formatka do zgłaszania błędów systemu
+
+Moja formatka do zgłaszania błędów aplikacji mobilnych znajduje się [tutaj](https://docs.google.com/document/d/1z1fhQujmnakAMaqOj5QjcLpryMzAyexnlqxYytM2weM).
+
+## Subtask 2. Testowanie eksploracyjne i raportowanie błędów
+
+Udało mi się znaleźć jeden błąd, oto moje [zgłoszenie](https://docs.google.com/document/d/14SAxmyREywUqruGBuJfxcgwt88sd567khHbz-pgoBCk) błędu. 
+
+Zdarzyły się też rzeczy, które były nie do zreprodukowania:
+
+* Raz, gdy kliknęłam "Zobacz więcej" pod Prawammi konsumenta to ten napis nie zniknął, jak na obrazku poniżej.
+
+<img src="/images/Screenshot_OLXpl.jpg" alt="screenshot of olx page" width="50%"
+height="50%" title="screenshot">
+
+* Po przeglądaniu strony "Szukaj" z wybranymi dla mnie pozycjami miałam wrażenie, że nie klikane przeze mnie produkty pokazywały się potem w "Ostatnio oglądanych ogłoszeniach"
+
+## Subtask 3. Do czego służy ta aplikcja?
+
+*Według mnie* aplikacja służy do:
+
+ * Sprzedawania i kupowania rzeczy, mieszkań i wynajmowania ich
+ 
+ * Szukania pracy i wystawiania ofert pracy
+
+Użytkownikiem końcowym są osoby prywatne i firmy, które chcą coś wystawić na sprzedaż, albo kupić. Może to być też osoba, która poszukuje pracy.
+
+Aplikacja jest czytelna, łatwo dodać nową ofertę przyciskiem na dole ekranu. Wszystko jest wyraźnie oznaczone. Można też wybrać, jakie powiadomienia chcemy dostawać. Jednak nie przypominam sobie, by aplikacja prowadziła mnie po kolei, np. jak dodać nowe ogłoszenie, albo jak coś wyszukać. Klikając w "Pomoc" użytkownik jest prekierowany do strony "Cenntrum pomocy", które to jest tylko pytaniami i odpowiedziami - nie widzę kontaktu z infolini, czy czatu. Nie ma też weryfikacji dwuskładnikowej.
+
+Dodałabym opcję kontaktu z supportem - mailowy, telefoniczny, czy poprzez czat. Dodałabym też weryfikację dwuskładnikową do logowania, żeby preciwdziałać oszustwom. Na ten moment weryfikuje się tylko numer telefonu sprzedającego.
+
+Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m. in. w natywnej nie ma takich narzędzi, jak DevToolsy. Istnieje też różnica w rozdzielczości, przez co aplikacje mobilne trudniej zrobić czytelnymi. Natywne aplikacje też trudnie zobić dostępne dla wszystkich (np. ustawienie większej czcionki w telefonie dla osób słabowidzących powoduje czasem brak możliwości używania danej aplikacji)
