@@ -134,7 +134,7 @@ height="50%" title="screenshot">
 
 ## Subtask 3. Do czego służy ta aplikcja?
 
-*Według mnie* aplikacja służy do:
+*Według mnie* aplikacja OLX służy do:
 
  * Sprzedawania i kupowania rzeczy, mieszkań i wynajmowania ich
  
@@ -150,4 +150,4 @@ Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m.
 
 ## Subtask 4. Zgłaszanie błędów w Jirze
 
-Moje zgłoszenia w aplikacji Jira dotępne są pod [linkiem](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2). Dostępne są też na githubie w [folderze](https://github.com/pgutomska/challenge_portfolio_pgutomska/tree/main/Jira).
+Zadanie było robione grupowo, moje zgłoszenia w aplikacji Jira dotępne są pod [linkiem](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2) oraz na githubie w [folderze](https://github.com/pgutomska/challenge_portfolio_pgutomska/tree/main/Jira).
