@@ -2,7 +2,6 @@
 
 # Spis Treści
 
-
 1. [Task 1](#task-1)
 * [Subtask 1. Wyciągmy karteczki](#subtask-1-wyciągamy-karteczki)
 * [Subtask 3. O mnie](#subtask-3-o-mnie)
@@ -17,11 +16,13 @@
 * [Subtask 1. Formatka do zgłaszania błędów](#subtask-1-formatka-do-zgłaszania-błędów)
 * [Subtask 2. Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
 * [Subtask 3. Raport](#subtask-3-raport)
-4. [Task 4.](#task-4)
+4. [Task 4](#task-4)
 * [Subtask 1. Formatka do zgłaszania błędów systemu](#subtask-1-formatka-do-zgłaszania-błędów-systemu)
 * [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
 * [Subtask 3. Do czego służy ta aplikacja?](#subtask-3-do-czego-s%C5%82u%C5%BCy-ta-aplikcja)
 * [Subtask 4. Zgłaszanie błędów w Jirze](#subtask-4-zgłaszanie-błędów-w-jirze)
+5. [Task 5](#task-5)
+* [Subtask 1. Krótki kurs podstaw SQL](#subtask-1-krótki-kurs-podstaw-sql)
 
 # Task 1
  
@@ -127,8 +128,8 @@ Zdarzyły się też rzeczy, które były nie do zreprodukowania:
 
 * Raz, gdy kliknęłam "Zobacz więcej" pod Prawammi konsumenta to ten napis nie zniknął, jak na obrazku poniżej.
 
-<img src="/images/Screenshot_OLXpl.jpg" alt="screenshot of olx page" width="50%"
-height="50%" title="screenshot">
+<img src="/images/Screenshot_OLXpl.jpg" alt="screenshot of olx page" width="30%"
+height="30%" title="screenshot">
 
 * Po przeglądaniu strony "Szukaj" z wybranymi dla mnie pozycjami miałam wrażenie, że nie klikane przeze mnie produkty pokazywały się potem w "Ostatnio oglądanych ogłoszeniach"
 
@@ -151,3 +152,45 @@ Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m.
 ## Subtask 4. Zgłaszanie błędów w Jirze
 
 Zadanie było robione grupowo, moje zgłoszenia w aplikacji Jira dotępne są pod [linkiem](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2) oraz na githubie w [folderze](https://github.com/pgutomska/challenge_portfolio_pgutomska/tree/main/Jira).
+
+# Task 5
+
+## Subtask 1. Krótki kurs podstaw SQL
+
+Poniżej wymieniam poznane zapytania oraz operatoy z kursu ["Szkolenie SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/).
+
+**Zapytania:**
+
+* SELECT 
+
+* FROM 
+
+* ORDER BY (DESC) 
+
+* WHERE 
+
+**Oparatory:**
+
+* \=
+
+* \>
+
+* \<
+
+* \<> lub \!=
+
+* BETWEEN
+
+* LIKE
+
+* AND
+
+* OR
+
+* IS NULL
+
+* IS NOT NULL
+
+* IN
+
+* ORDER BY
