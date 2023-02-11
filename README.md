@@ -23,6 +23,7 @@
 * [Subtask 4. Zgłaszanie błędów w Jirze](#subtask-4-zgłaszanie-błędów-w-jirze)
 5. [Task 5](#task-5)
 * [Subtask 1. Krótki kurs podstaw SQL](#subtask-1-krótki-kurs-podstaw-sql)
+* [Subtask 3. Kilka zadań na rozgrzewkę](#subtask-3-kilka-zadań-na-rozgrzewkę)
 
 # Task 1
  
@@ -162,35 +163,22 @@ Poniżej wymieniam poznane zapytania oraz operatoy z kursu ["Szkolenie SQL w 120
 **Zapytania:**
 
 * SELECT 
-
 * FROM 
-
 * ORDER BY (DESC) 
-
 * WHERE 
 
 **Oparatory:**
 
 * \=
-
 * \>
-
 * \<
-
 * \<> lub \!=
-
 * BETWEEN
-
 * LIKE
-
 * AND
-
 * OR
-
 * IS NULL
-
 * IS NOT NULL
-
 * IN
 
-* ORDER BY
+## Subtask 3. Kilka zadań na rozgrzewkę
