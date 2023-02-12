@@ -245,11 +245,11 @@ WHERE customer_id IN (1,3,5)
 
 ![z07](https://user-images.githubusercontent.com/122393705/218308237-44074615-4c0f-4865-8f36-4871ea08be6b.png)
 
-#### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+#### 8. Wyświetl dane wszystkich osób z tabeli 'actors', których imię zaczyna się od ciągu "An".
 
 SELECT * FROM actors 
 
-WHERE name LIKE ‘An%’
+WHERE name LIKE 'An%'
 
 ORDER BY name
 
