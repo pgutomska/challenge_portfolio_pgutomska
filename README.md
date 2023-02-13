@@ -203,7 +203,7 @@ WHERE year_of_production = 2019
 
 SELECT * FROM movies
 
-WHERE year_of_production >= 1900 AND <= 1999
+WHERE year_of_production BETWEEN 1900 AND 1999
 
 ![z03](https://user-images.githubusercontent.com/122393705/218308221-bb3a0983-6280-4348-b6ab-de79e0f624da.png)
 
