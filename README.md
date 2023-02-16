@@ -155,7 +155,7 @@ Testowanie aplikacji internetowej i natywnej zdecydowanie ma swoje różnice, m.
 
 ## Subtask 4. Zgłaszanie błędów w Jirze
 
-Zadanie było robione grupowo, moje zgłoszenia w aplikacji Jira dotępne są pod [linkiem](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2) oraz na githubie w [folderze](https://github.com/pgutomska/challenge_portfolio_pgutomska/tree/main/Jira).
+Zadanie było robione grupowo, moje zgłoszenia w aplikacji Jira dotępne są pod [linkiem](https://wannai.atlassian.net/jira/software/projects/DIT/boards/2) oraz na githubie pod [linkiem](https://github.com/pgutomska/challenge_portfolio_pgutomska/blob/main/Jira/BugsReports.md).
 
 # Task 5
 
