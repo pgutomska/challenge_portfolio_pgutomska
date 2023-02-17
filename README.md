@@ -311,7 +311,7 @@ UPDATE customers
 
 SET email = 'pati@mail.com'
 
-WHERE customer_id = 4
+WHERE email IS NULL AND name = 'Patrycja'
 
 ![z13](https://user-images.githubusercontent.com/122393705/219426273-b849ec8e-6879-4dcc-a15f-bb99354e82b1.png)
 
@@ -393,10 +393,14 @@ WHERE a.actor_id = 4
 
 #### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
-INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa'
+INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
 ![z20](https://user-images.githubusercontent.com/122393705/219426441-8e5b3ff4-440f-4bf2-8dae-47d25ebdf33d.png)
 
 ## Subtask 2. Test
 
+10 punktów z [testu](http://getistqb.com/quiz-ecru/) ISTQB.
+
 ## Subtask 3. Portfolio
+
+Stworzyłam portfolio na podstawie kursu pod, które można znaleźć pod [linkiem](https://github.com/pgutomska/Portfolio).
