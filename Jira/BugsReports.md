@@ -4,7 +4,7 @@
 
 ### Attachment:
 
-![DIT-2_screenshot](https://user-images.githubusercontent.com/122393705/219444612-177d984c-b2b9-4b12-acf9-ad5ff22c4cac.jpg)
+![DIT-2_screenshot](https://user-images.githubusercontent.com/122393705/220922030-7bf6a90e-3254-4ff8-8663-82e11f776d2b.png)
 
 ## 2. Bug report
 
@@ -39,8 +39,8 @@
 ![DIT-17](https://user-images.githubusercontent.com/122393705/220924099-dffd6c30-ee17-4542-b3a5-50dcf9904e7f.png)
 
 ## 7. Bug report
- 
-![DIT-18](https://user-images.githubusercontent.com/122393705/219444236-f019df18-21b3-4181-b105-1cfcd3d26ed9.png)
+
+![DIT-18](https://user-images.githubusercontent.com/122393705/220924871-3f1d6b82-9b5a-449e-a423-6c03e5f1a10e.png)
 
 ## 8. Bug report
 
@@ -51,5 +51,4 @@
 ![DIT-20](https://user-images.githubusercontent.com/122393705/220924340-7dfe76f3-ff40-48cc-a5f6-282868f10a26.png)
 
 ### Attachment:
-
-![DIT-20_screenshot](https://user-images.githubusercontent.com/122393705/219444549-a4eeb6f4-03c2-4978-ba30-fec7ff611810.jpg)
+![DIT-20_screenshot](https://user-images.githubusercontent.com/122393705/220922472-1ec477cb-9cb9-4d0a-9792-b45a37b334cd.png)
